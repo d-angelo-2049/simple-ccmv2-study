@@ -4,6 +4,4 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    # volumes:
-    #   - .:/simple-ccm-study
     command: tail -f /dev/null

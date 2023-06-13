@@ -12,6 +12,7 @@ RUN tar -xf /tmp/jdk-8u181-linux-x64.tar.gz -C /opt/ \
 ENV JAVA_HOME=/opt/java
 ENV PATH=$JAVA_HOME/bin:$PATH
 
+## install ycsb
 RUN git clone https://github.com/brianfrankcooper/YCSB.git
 WORKDIR /YCSB
 RUN mvn clean package -DskipTests
