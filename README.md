@@ -28,7 +28,7 @@
 1. 本リポジトリを clone する
 
 ```
-$ git clone git@github.com:d-angelo-2049/simple-ccm-study.git
+$ git clone git@github.com:d-angelo-2049/simple-ccmv2-study.git
 ```
 
 2. [このリンク](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) から jdk-8u181-linux-x64.tar.gz をダウンロードしてプロジェクトディレクトリに配置する
