@@ -1,4 +1,4 @@
-# simple-ccm-study
+# simple-ccmv2-study
 
 ## イントロ
 
